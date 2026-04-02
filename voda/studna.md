@@ -20,3 +20,6 @@ Profivoda: [(https://www.profivoda.cz/)]
    správce povodí
 5. vrt (standardně 1 den)
 
+
+#### Správná a chybná PLASTOVÁ ZHLAVÍ VRTU
+https://www.youtube.com/watch?v=wMJPFFFtZvo

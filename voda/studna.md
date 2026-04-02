@@ -13,7 +13,11 @@ Profivoda: [(https://www.profivoda.cz/)]
  - uspořádání staveb na pozemku
 2. zpracování hydrogeologického posudku (hydrogeolog, 1 měsíc)
 3. zpracování projektové dokumentace studny ((studnař nebo vrtací firma, 1 měsíc)
-4. schválení projektu na vodosprávním úřadu (3-6 měsíců)
+4. schválení projektu na úřadech: (3-6 měsíců)
+   krajský úřad
+   báňský úřad
+   vodosprávní úřad
+   správce povodí
 5. vrt (standardně 1 den)
 
 

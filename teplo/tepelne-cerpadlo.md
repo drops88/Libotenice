@@ -22,3 +22,6 @@ https://www.projektuj-tepelna-cerpadla.cz/cz/kde-je-lepsi-pouzit-zemni-tepelne-c
 Základním parametrem tepelných čerpadel je topný faktor (COP – Coefficient of Performance), který udává účinnost systému. Topný faktor představuje poměr mezi vyrobeným teplem a spotřebovanou elektrickou energií, tedy poměr mezi vyrobenou a spotřebovanou energií. Čím je topný faktor tepelného čerpadla vyšší, tím je čerpadlo efektivnější a jeho provoz levnější. Topný faktor je u tepelného čerpadla do velké míry závislý na vnějších podmínkách, a není proto stálý. Je logické, že výrobci tepelných čerpadel vždy uvádí nejvyšší možný topný faktor, kterého lze u tepelného čerpadla dosáhnout. Z toho důvodu výpočty nákladů a návratnosti tepelného čerpadla neodpovídají realitě. Různé typy tepelných čerpadel mají různé topné faktory. Záleží na zdroji, ze kterého tepelné čerpadlo získává energii.
 
 Zdroj: https://www.drevostavitel.cz/clanek/tepelne-cerpadlo-ucinnost-topny-faktor
+
+## Zemní kolektor pro tepelné čerpadlo
+https://www.youtube.com/watch?v=PfIszb8M-0o

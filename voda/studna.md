@@ -6,7 +6,7 @@ Profivoda: [(https://www.profivoda.cz/)]
 
 1. hydrogeologické ohledání pozemku (hydrogeolog)
  - místní zdroje vody (řeky, jezírka, prameny, ...)
- - okolní studny a žumpy (nepřekopnout cizí, zdroje znečištění, atd.)
+ - okolní studny a žumpy
  - ochranné zóny
  - půdní profil
  - přístup na pozemek

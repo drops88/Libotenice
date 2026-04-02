@@ -1,8 +1,6 @@
-### Hydrogeologický průzkum, vrty, ...
-Profivoda: [(https://www.profivoda.cz/)]
+## Vrtaná studna
 
-### Úprava vody ze studny:
-H2Onanotec: [https://www.h2onanotec.cz/]
+Profivoda: [(https://www.profivoda.cz/)]
 
 ### Postup:
 
@@ -14,6 +12,11 @@ H2Onanotec: [https://www.h2onanotec.cz/]
  - přístup na pozemek
  - uspořádání staveb na pozemku
 2. zpracování hydrogeologického posudku (hydrogeolog, 1 měsíc)
-3. zpracování projektové dokumentace ((hydrogeolog/vrtací firma, 1 měsíc)
-4. schválení projektu na úřadech (3-6 měsíců)
+3. zpracování projektové dokumentace studny ((studnař nebo vrtací firma, 1 měsíc)
+4. schválení projektu na vodosprávním úřadu (3-6 měsíců)
 5. vrt (standardně 1 den)
+
+
+## Úprava vody ze studny:
+
+H2Onanotec: [https://www.h2onanotec.cz/]

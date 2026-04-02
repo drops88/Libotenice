@@ -19,8 +19,3 @@ Profivoda: [(https://www.profivoda.cz/)]
    vodosprávní úřad
    správce povodí
 5. vrt (standardně 1 den)
-
-
-## Úprava vody ze studny:
-
-H2Onanotec: [https://www.h2onanotec.cz/]

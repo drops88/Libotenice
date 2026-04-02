@@ -23,5 +23,8 @@ Základním parametrem tepelných čerpadel je topný faktor (COP – Coefficien
 
 Zdroj: https://www.drevostavitel.cz/clanek/tepelne-cerpadlo-ucinnost-topny-faktor
 
-## Zemní kolektor pro tepelné čerpadlo
+### Zemní kolektor pro tepelné čerpadlo
 https://www.youtube.com/watch?v=PfIszb8M-0o
+
+### Velký a účinný zemní kolektor z malé zahrad
+https://www.youtube.com/watch?v=_MPZJSa2M4I

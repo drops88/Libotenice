@@ -16,3 +16,7 @@ H2Onanotec: [https://www.h2onanotec.cz/]
  - uspořádání staveb na pozemku
 
 2. zpracování projektové dokumentace (hydrogeolog)
+
+3. Schválení projektu na úřadech
+
+4. vrtání (standardně 1 den)

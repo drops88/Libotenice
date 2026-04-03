@@ -28,3 +28,10 @@ https://www.youtube.com/watch?v=PfIszb8M-0o
 
 ### Velký a účinný zemní kolektor z malé zahrad
 https://www.youtube.com/watch?v=_MPZJSa2M4I
+
+### Klíčová slova
+- ground source heat pump
+- ground looped collector
+- ground vertical collector
+- ground horizintal collector
+- pond looped collector

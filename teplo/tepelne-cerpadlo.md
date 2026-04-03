@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=_MPZJSa2M4I
 - ground source heat pump
 - ground looped collector
 - ground vertical collector
-- ground horizintal collector
+- ground horizontal collector
 - pond looped collector
 
 ### Poznámky k čerpadlu se zemním kolektorem:

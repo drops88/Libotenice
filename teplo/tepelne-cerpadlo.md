@@ -36,9 +36,9 @@ https://www.youtube.com/watch?v=_MPZJSa2M4I
 - ground horizintal collector
 - pond looped collector
 
-### Poznámky:
+### Poznámky k čerpadlu se zemním kolektorem:
 - zemní kolektor by měl být uložen v nezámrzné hloubce, typicky 120 cm pod povrchem.
 - čím hlouběji je kolektor uložen, tím vyšší a stabilnější je účinnost přestupu tepla.
 - jílovitá půda a podmáčená půda zvyšují přestup tepla -> vyšší účinnost.
 - naopak, kámen nebo písek jsou špatný vodič tepla -> trubky se nikdy nezasypávají šterkem nebo pískem.
-
+- v potrubí obíhá směs vody a glykolu. Voda má lepší přenos tepla než glykol, takže je žádoucí co nejvyšší obsah vody ve směsi. Toho lze dosáhnout právě uložením potrubí do větší hloubky. Pro naší lokalitu lze počítat s poměrem voda/glykol = 80/20%.

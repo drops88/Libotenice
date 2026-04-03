@@ -12,14 +12,15 @@ o	min. 7 m mezi domy (tj. typicky cca 3,5 m + 3,5 m)
 👉 Výjimky:
 •	ve stísněných podmínkách může být méně (např. 4 m mezi domy bez oken obytných místností) 
 •	někdy lze stavět i na hranici (bez oken, se souhlasem a splněním podmínek) 
-________________________________________
+
 🚧 2) Rodinný dům – vzdálenost od veřejné komunikace
 •	Obecně se uvažuje min. cca 3 m od komunikace 
 •	ALE: 
 o	často rozhoduje tzv. stavební čára (daná obcí/územním plánem) 
 o	někde můžete stavět blíž, jinde dál (např. kvůli uliční zástavbě) 
 👉 Tohle je jedna z věcí, kde místní regulace hraje zásadní roli.
-________________________________________
+
+
 💧 3) Vrtaná studna – vzdálenost od souseda
 Tady není jedno univerzální číslo jako u domu.
 Platí:
@@ -31,7 +32,8 @@ o	neovlivnila sousední studny
 •	ale rozhodující je: 
 o	hydrogeologický posudek 
 o	ochranná pásma zdrojů znečištění (septik, kanalizace, silnice apod.) 
-________________________________________
+
+
 🚰 4) Vrtaná studna – vzdálenost od komunikace
 Opět není jedno pevné číslo v zákoně:
 •	musí být mimo zdroje možného znečištění 
@@ -41,7 +43,8 @@ o	rizika znečištění (solení, provoz)
 o	geologických podmínek 
 👉 V praxi se často pohybuje:
 •	několik metrů (typicky 5–12 m) – ale vždy podle posudku 
-________________________________________
+
+
 ⚠️ Důležité shrnutí
 •	Dům: 
 o	2 m od hranice pozemku 
@@ -51,7 +54,8 @@ o	cca 3 m od komunikace (ale řídí se stavební čárou)
 o	nemá pevnou univerzální vzdálenost 
 o	rozhoduje hydrogeolog + stavební úřad 
 o	klíčové je zabránění znečištění 
-________________________________________
+
+
 🧠 Praktická rada
 Než začnete projekt:
 •	zjistěte územní plán obce 

@@ -35,3 +35,10 @@ https://www.youtube.com/watch?v=_MPZJSa2M4I
 - ground vertical collector
 - ground horizintal collector
 - pond looped collector
+
+### Poznámky:
+- zemní kolektor by měl být uložen v nezámrzné hloubce, typicky 120 cm pod povrchem.
+- čím hlouběji je kolektor uložen, tím vyšší a stabilnější je účinnost přestupu tepla.
+- jílovitá půda a podmáčená půda zvyšují přestup tepla -> vyšší účinnost.
+- naopak, kámen nebo písek jsou špatný vodič tepla -> trubky se nikdy nezasypávají šterkem nebo pískem.
+

@@ -1,6 +1,8 @@
+## Ground source heat-pump
+
 source: https://homemicro.co.uk/lzc_gshp-pipe.html
 
-## Bore Hole Pipework Distribution
+### Bore Hole Pipework Distribution
 
 The spacing of holes will depend upon ground conditions and the available energy in the ground. Typically boreholes should be placed at no less than 5 metre centres and at least 2 metres from a building, although 5 metres is better.
 
@@ -14,7 +16,7 @@ The distribution pipe (thermal collector pipe) between the building and the bore
 •All pipes between manifolds and bore holes will need to be thermally insulated where pipes are in close proximity. Pipework with a separation distance less than 1000mm should be thermally insulated.
 •All pipes crossing water mains or drains must be thermally insulated 1000mm on each side of the crossing point.
 
-## Trench Pipework Distribution
+### Trench Pipework Distribution
 
 To achieve optimum levels of heat absorption the following rules should be observed for pipes lay in trenches:
 
@@ -26,3 +28,10 @@ To achieve optimum levels of heat absorption the following rules should be obser
 •Trenches should be a minimum of 1000mm clear of all buildings (obviously the circuit will need to extend to the property).
 •The last 1000mm of pipe up to the property must be thermally insulated.
 •All pipes crossing water mains or drains must be thermally insulated 1000mm on each side of the crossing point.
+
+### Keywords
+- ground source heat pump
+- ground looped collector
+- ground vertical collector
+- ground horizontal collector
+- pond looped collector

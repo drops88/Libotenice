@@ -1,6 +1,4 @@
-# Teorie
-
-## Tepelná čerpadla země-voda
+## Tepelné čerpadlo země-voda
 
 ### Spotřeba elektřiny: 
 Spotřeba elektřiny je u čerpadla země/voda nižší o 20 až 40 % než u čerpadel vzduch/voda. Velikost rozdílu ve spotřebě elektřiny závisí na charakteru topné sezony, zda je studenější, nebo teplejší. Výraznou roli hraje i umístění budovy, kdy v teplejších lokalitách je rozdíl ve spotřebě elektřiny menší, naopak u budov na horách může rozdíl ve spotřebě elektřiny přesahovat i 60 %.

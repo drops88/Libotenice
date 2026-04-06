@@ -11,3 +11,7 @@ Do vrtu se následně umisťuje tepelná sonda, což je trubkový systém, obvyk
 Pro realizaci hlubinných vrtů je nezbytné nechat vypracovat projekt geologických prací autorizovaným hydrogeologem. Následně je nutné získat souhlas příslušného úřadu a zajistit vyjádření vodoprávního úřadu. U vrtů hlubších než 30 metrů je navíc nutné ohlásit práce báňskému úřadu, a to alespoň 15 dní předem. Celý proces schvalování a povolení může trvat několik měsíců. Po dokončení vrtu zpracuje hydrogeolog závěrečnou zprávu, která slouží jako podklad pro kolaudaci a samotné uvedení vrtu do provozu.
 
 Za každý metr vrtu zaplatíte zhruba 1 200–2 500 Kč. Cena závisí i na půdních podmínkách a lokalitě. V případě náročnějších podmínek (například skalní podloží) může být cena vrtu vyšší.
+
+### Návrh vrtů pro tepelná čerpadla
+
+zdroj: https://www.gerotop.cz/dimenzovani-hlubinnych-vrtu

@@ -1,3 +1,5 @@
+zdroj: https://www.gerotop.cz/instalace-plosneho-kolektoru
+
 ## Plošné kolektory pro tepelná čerpadla země-voda
 
 Plošný kolektor je síť trubek uložených pod zemí, které jsou uspořádány do smyček nebo hadů. V trubkách cirkuluje nemrznoucí směs, která zajišťuje přenos tepla i při nízkých teplotách. Pokud instalace kolektorů může ovlivnit podzemní vodní zdroje nebo se nachází v chráněné oblasti, budete potřebovat souhlas vodoprávního úřadu.

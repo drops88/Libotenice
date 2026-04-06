@@ -1,3 +1,5 @@
+source: https://homemicro.co.uk/lzc_gshp-pipe.html
+
 ## Bore Hole Pipework Distribution
 
 The spacing of holes will depend upon ground conditions and the available energy in the ground. Typically boreholes should be placed at no less than 5 metre centres and at least 2 metres from a building, although 5 metres is better.

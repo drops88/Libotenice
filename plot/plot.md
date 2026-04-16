@@ -1,6 +1,8 @@
 # Plot
 
-Ploty Dobrý: https://www.youtube.com/@PlotyDobry
+Ploty Dobrý: www.plotydobry.cz
+
+Youtube: https://www.youtube.com/@PlotyDobry
 
 Plotový panel 2D DOUBLE LIGHT – 163 cm: https://www.levne-pletivo.cz/plotovy-panel-2d-double-light-163-cm-drat-5-4-5-mm-zeleny/
 

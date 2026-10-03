@@ -30,7 +30,7 @@ Při porovnávání 2 až 3 nabídek doporučuji hodnotit komplexní hodnotu, ne
 
 ---
 
-## Vysvětlení odborných pojmů v kontextu stavby a požadavků vodohospodářské infrastruktury:
+## Vysvětlení pojmů v kontextu stavby a požadavků vodohospodářské infrastruktury:
 
 ### 1. Záborové elaboráty
 

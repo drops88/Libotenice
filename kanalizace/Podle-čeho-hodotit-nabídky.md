@@ -32,6 +32,7 @@ Při porovnávání 2 až 3 nabídek doporučuji hodnotit komplexní hodnotu, ne
 
 ## Vysvětlení pojmů v kontextu stavby a požadavků vodohospodářské infrastruktury:
 
+
 ### 1. Záborové elaboráty
 
 Záborový elaborát je specializovaný výkresový a tabulkový podklad, který přesně identifikuje, **které pozemky (a v jakém rozsahu) budou dotčeny stavbou a jejím ochranným pásmem**.

@@ -24,9 +24,9 @@ Pro vámi popsané zapojení vám ve velké většině případů bude stačit M
 
 Níže uvádím podrobné odpovědi na vaše dotazy:
 
-## a) Bude mi stačit Model 1, nebo potřebuji Model 2?
+### a) Bude mi stačit Model 1, nebo potřebuji Model 2?
 
-### **Pro drtivou většinu běžných instalací plně postačí Model 1 (pro 1 elektroměr).**
+Pro drtivou většinu běžných instalací plně postačí Model 1 (pro 1 elektroměr).
 
 V minulosti se instaloval samostatný elektroměr pro měření výroby FVE a samostatný pro spotřebu domu. Dnes se v běžném režimu mikrozdrojů (do 50 kW bez licence či s jednoduchou licencí) používá primárně jediné dvousměrné měření. Druhý slot v rozvaděči však poskytuje flexibilitu, pokud by ČEZ nebo legislativa v budoucnu vyžadovaly oddělené měření pro specifické komunitní sdílení či lokální distribuční soustavy. Dnešní standardní instalace fotovoltaiky (FVE) pro rodinné domy funguje na principu tzv. **čtyřkvadrantního 4Q elektroměru** (který zdarma dodá distributor – ČEZ Distribuce):
 
@@ -39,7 +39,7 @@ V minulosti se instaloval samostatný elektroměr pro měření výroby FVE a sa
 
 > **Shrnutí:** Z pohledu ČEZu i legislativy nepotřebujete druhý elektroměr jen proto, že nabíjíte elektromobil nebo ukládáte energii do baterie. Vše zastane jediný dvousměrný 4Q elektroměr.
 
-## b) Jaké jsou výhody a dodatečné možnosti Modelu 2 oproti Modelu 1?
+### b) Jaké jsou výhody a dodatečné možnosti Modelu 2 oproti Modelu 1?
 
 Model 2 (příprava pro 2 elektroměry) se instaluje v případech, kdy plánujete speciální tarifní nebo provozní uspořádání.
 

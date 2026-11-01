@@ -12,7 +12,7 @@ Zde je kompletní výpočet úspory dle zadání:
 
 ---
 
-## 1. Způsob výpočtu roční úspory (Modelový příklad — 15 km)
+## 1. Způsob výpočtu roční úspory
 
 * **Vozidlo:** Škoda Enyaq 85 (reálná spotřeba cca 17,5 kWh / 100 km).
 * **Trasa:** 15 km tam a 15 km zpět = **30 km / denně**.
@@ -22,7 +22,7 @@ Zde je kompletní výpočet úspory dle zadání:
 
 ---
 
-## 2. Finanční srovnání sazeb (Bez zohlednění FVE — 15 km)
+## 2. Finanční srovnání sazeb (Bez zohlednění FVE)
 
 > **Cenový základ:** Běžný jednotarif (D02d) průměrně ~**6,50 Kč / kWh**, nízký tarif u dvoutarifních sazeb (D27d / D57d v NT) ~**4,00 Kč / kWh**.
 

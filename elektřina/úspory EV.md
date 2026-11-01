@@ -2,7 +2,7 @@
 
 ## Dotaz:
 
-Existuje u distributora čez nějaký specifický tarif pro nabíjení EV? pokud ao, jakou finanční úsporu může přinést využití tohoto tarifu namísto jednoho společného tarifu pro EV i domácnost. Předpokládejme období 1 rok a běžný EV, například škoda enyaq. EV se primárně používá pro denní dojíždění do zaměstnání vzdáleného 20 km.
+Existuje u distributora čez nějaký specifický tarif pro nabíjení EV? pokud ao, jakou finanční úsporu může přinést využití tohoto tarifu namísto jednoho společného tarifu pro EV i domácnost. Předpokládejme období 1 rok a běžný EV, například škoda enyaq. EV se primárně používá pro denní dojíždění do zaměstnání vzdáleného 15 km.
 
 ## Odpovědi:
 

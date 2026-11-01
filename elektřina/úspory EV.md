@@ -15,8 +15,8 @@ nyní potřebuji vybrat správný typ elektroměrového rozvaděče. mám na vý
 
 mám tyto dotazy:
 
-a) Bude mi pro moje potřeby stačit model 1 nebo potřebuji model 2?
-b) jaké jsou výhody a dodatečné možnosti modelu 2 oproti modelu 1?
+## a) Bude mi pro moje potřeby stačit model 1 nebo potřebuji model 2?
+## b) jaké jsou výhody a dodatečné možnosti modelu 2 oproti modelu 1?
 
 # Odpovědi:
 
@@ -24,8 +24,7 @@ Pro vámi popsané zapojení vám ve velké většině případů bude stačit M
 
 Níže uvádím podrobné odpovědi na vaše dotazy:
 
-a) Bude mi stačit Model 1, nebo potřebuji Model 2?
-b) jaké jsou výhody a dodatečné možnosti modelu 2 oproti modelu 1?
+## a) Bude mi stačit Model 1, nebo potřebuji Model 2?
 
 ### **Pro drtivou většinu běžných instalací plně postačí Model 1 (pro 1 elektroměr).**
 

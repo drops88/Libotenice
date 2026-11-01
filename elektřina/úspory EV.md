@@ -155,13 +155,13 @@ Zde je přehledné finanční srovnání nákladů na provoz elektromobilu (**Š
 
 * Roční nájezd:** 9 700 km / rok (30 km denně v pracovní dny + rezerva)
 
-> **Škoda Octavia (Spalovací motor):**
+> Škoda Octavia (Spalovací motor):
 * Spotřeba: **6,5 l / 100 km**
 * Cena paliva: **42,00 Kč / l**
 * Náklady na 100 km: $6,5 \times 42 = \mathbf{273,00\text{ Kč}}$
 
 
-* **Škoda Enyaq 85 (Elektromobil):**
+> Škoda Enyaq 85 (Elektromobil):
 * Spotřeba s započtením ztrát nabíjení (~90 % účinnost): **19,4 kWh / 100 km** (reálná spotřeba vozu 17,5 kWh/100 km)
 * Cena elektřiny (Nízký tarif D57d): **4,00 Kč / kWh**
 * Náklady na 100 km: $19,4 \times 4 = \mathbf{77,60\text{ Kč}}$

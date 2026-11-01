@@ -20,10 +20,6 @@ mám tyto dotazy:
 
 # Odpovědi:
 
-Pro vámi popsané zapojení vám ve velké většině případů bude stačit Model 1 (pro jeden elektroměr). Nicméně volba Modelu 2 přináší určité výhody a flexibilitu do budoucna.
-
-Níže uvádím podrobné odpovědi na vaše dotazy:
-
 ### a) Bude mi stačit Model 1, nebo potřebuji Model 2?
 
 Pro drtivou většinu běžných instalací plně postačí Model 1 (pro 1 elektroměr).

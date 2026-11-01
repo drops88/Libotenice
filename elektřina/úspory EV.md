@@ -112,7 +112,7 @@ Jakou finanční úsporu může přinést využití nízkého tarifu namísto je
 
 ### 2. Finanční srovnání sazeb (Bez zohlednění FVE)
 
-> **Cenový základ:** Běžný jednotarif (D02d) průměrně ~**6,50 Kč / kWh**, nízký tarif u dvoutarifních sazeb (D27d / D57d v NT) ~**4,00 Kč / kWh**.
+**Cenový základ:** Běžný jednotarif (D02d) průměrně ~**6,50 Kč / kWh**, nízký tarif u dvoutarifních sazeb (D27d / D57d v NT) ~**4,00 Kč / kWh**.
 
 | Parametr / Sazba | Běžný jednotarif (D02d) | Sazba pro EV / Čerpadlo (D27d / D57d v NT) |
 | --- | --- | --- |
@@ -174,7 +174,7 @@ Zde je přehledné finanční srovnání nákladů na provoz elektromobilu (**Š
 | **Měsíční náklady na palivo/nabíjení** | cca 2 206 Kč | cca 627 Kč | **- 1 579 Kč / měsíc** |
 | **Roční náklady (9 700 km)** | **26 481 Kč** | **7 527 Kč** | **- 18 954 Kč / rok** |
 
-> **Výsledek:** Pouze na provozní energii (palivo vs. elektřina v nízkém tarifu) vám elektromobil při tomto nájezdu ušetří téměř 19 000 Kč ročně (cca 71 % nákladů na palivo). Výše uvedená úspora počítá s tím, že veškerou elektřinu pro EV kupujete ze sítě. Jelikož budete mít na střeše domu fotovoltaiku, reálné náklady budou ještě nižší. V období duben–září (jaro–podzim): Příjezd z práce odpoledne vám umožní nabíjet auto přímo z přebytků FVE. Pokud pokryjete například 50 % ročního nájezdu ze solární energie (vlastní vyrobená elektřina), klesnou vaše roční náklady na nabíjení EV ze 7 527 Kč na **cca 3 760 Kč ročně.
+**Výsledek:** Pouze na provozní energii (palivo vs. elektřina v nízkém tarifu) vám elektromobil při tomto nájezdu ušetří téměř 19 000 Kč ročně (cca 71 % nákladů na palivo). Výše uvedená úspora počítá s tím, že veškerou elektřinu pro EV kupujete ze sítě. Jelikož budete mít na střeše domu fotovoltaiku, reálné náklady budou ještě nižší. V období duben–září (jaro–podzim): Příjezd z práce odpoledne vám umožní nabíjet auto přímo z přebytků FVE. Pokud pokryjete například 50 % ročního nájezdu ze solární energie (vlastní vyrobená elektřina), klesnou vaše roční náklady na nabíjení EV ze 7 527 Kč na **cca 3 760 Kč ročně.
 V takovém případě roční úspora na palivu dosáhne téměř 22 700 Kč ročně.
 
 
@@ -214,7 +214,7 @@ Jediný právní a tarifní rozdíl nastává podle toho, **k čemu dílna slou�
 * Instalovat podružný elektroměr a náklad poměrně rozpočítat (případně po konzultaci s daňovým poradcem).
 * Nebo zřídit pro dílnu samostatné podnikatelské odběrné místo (pak by se teprve hodil zmiňovaný *Model 2* rozvaděče).
 
-> **Shrnutí:** Pokud jde o dílnu pro vlastní potřebu či běžný kutilský provoz, využití 20 hodin nízkého tarifu denně pro chod strojů **je plně legální a předpisům to nijak neodporuje**.
+**Shrnutí:** Pokud jde o dílnu pro vlastní potřebu či běžný kutilský provoz, využití 20 hodin nízkého tarifu denně pro chod strojů **je plně legální a předpisům to nijak neodporuje**.
 
 ### 3. Na co si dát pozor při návrhu elektroinstalace dílny?
 

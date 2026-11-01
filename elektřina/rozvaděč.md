@@ -21,9 +21,7 @@ b) jaké jsou výhody a dodatečné možnosti modelu 2 oproti modelu 1?
 
 ## Odpovědi:
 
-Pro vámi popsané zapojení vám **ve velké většině případů bude stačit Model 1 (pro jeden elektroměr)**. Nicméně volba Modelu 2 přináší určité výhody a flexibilitu do budoucna.
-
-Níže uvádím podrobné odpovědi na vaše dotazy:
+Pro vámi popsané zapojení vám **ve velké většině případů bude stačit Model 1 (pro jeden elektroměr)**. Nicméně volba Modelu 2 přináší určité výhody a flexibilitu do budoucna. Níže uvádím podrobné odpovědi na vaše dotazy:
 
 ---
 

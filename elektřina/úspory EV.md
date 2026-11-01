@@ -49,7 +49,7 @@ Model 2 (příprava pro 2 elektroměry) se instaluje v případech, kdy plánuje
 * Výměnek / část domu určená k pronájmu (nájemník má svůj elektroměr).
 * Dům spojený s podnikáním / provozovnou (podnikatelský odběr oddělený od osobního).
 
-## Doporučení na závěr
+### Doporučení na závěr
 
 1. **Standardní volba (Model 1):** Pokud stavíte klasický rodinný dům pro jednu rodinu a elektromobil budete nabíjet z domova v rámci jedné společné faktury za elektřinu, **kupte Model 1**. Ušetříte za rozvaděč i za prostor na hranici pozemku.
 2. **Kdy zvolit Model 2:** Pokud plánujete v domu samostatnou bytovou jednotku/dvojdomek, chcete účtovat nabíjení firemního elektromobilu na samostatné odběrné místo (EAN), nebo chcete mít maximální rezervu pro budoucí stavební/energetické úpravy.
@@ -103,7 +103,7 @@ Jakou finanční úsporu může přinést využití nízkého tarifu namísto je
 
 # Odpovědi:
 
-## 1. Způsob výpočtu roční úspory
+### 1. Způsob výpočtu roční úspory
 
 * **Vozidlo:** Škoda Enyaq 85 (reálná spotřeba cca 17,5 kWh / 100 km).
 * **Trasa:** 15 km tam a 15 km zpět = **30 km / denně**.
@@ -111,7 +111,7 @@ Jakou finanční úsporu může přinést využití nízkého tarifu namísto je
 * **Rezerva na víkendy a ostatní jízdy:** Celkový roční nájezd cca **9 700 km / rok**.
 * **Roční spotřeba EV pro nabíjení:** Při spotřebě 17,5 kWh/100 km a účinnosti wallboxu (~90 %) činí celková roční potřeba **cca 1 885 kWh (1,88 MWh)**.
 
-## 2. Finanční srovnání sazeb (Bez zohlednění FVE)
+### 2. Finanční srovnání sazeb (Bez zohlednění FVE)
 
 > **Cenový základ:** Běžný jednotarif (D02d) průměrně ~**6,50 Kč / kWh**, nízký tarif u dvoutarifních sazeb (D27d / D57d v NT) ~**4,00 Kč / kWh**.
 

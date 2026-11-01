@@ -30,7 +30,7 @@ V minulosti se instaloval samostatný elektroměr pro měření výroby FVE a sa
 
 * Veškeré řízení spotřeby v domě – tedy zda se solární elektřina pošle do **baterie**, do **elektromobilu (wallboxu)**, nebo spotřebuje v **domácnosti** – řeší **střídač (střídač/střídačový systém FVE) a smartmeter (řídicí modul FVE)** umístěný až v podružném rozvaděči uvnitř domu.
 
-> **Shrnutí:** Z pohledu ČEZu i legislativy nepotřebujete druhý elektroměr jen proto, že nabíjíte elektromobil nebo ukládáte energii do baterie. Vše zastane jediný dvousměrný 4Q elektroměr.
+**Shrnutí:** Z pohledu ČEZu i legislativy nepotřebujete druhý elektroměr jen proto, že nabíjíte elektromobil nebo ukládáte energii do baterie. Vše zastane jediný dvousměrný 4Q elektroměr.
 
 ### b) Jaké jsou výhody a dodatečné možnosti Modelu 2 oproti Modelu 1?
 

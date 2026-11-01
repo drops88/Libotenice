@@ -28,7 +28,6 @@ V minulosti se instaloval samostatný elektroměr pro měření výroby FVE a sa
 * **Odběr ze sítě** ve vysokém tarifu (VT) i nízkém tarifu (NT).
 * **Přetoky (dodávku) do sítě** z vaší FVE.
 
-
 * Veškeré řízení spotřeby v domě – tedy zda se solární elektřina pošle do **baterie**, do **elektromobilu (wallboxu)**, nebo spotřebuje v **domácnosti** – řeší **střídač (střídač/střídačový systém FVE) a smartmeter (řídicí modul FVE)** umístěný až v podružném rozvaděči uvnitř domu.
 
 > **Shrnutí:** Z pohledu ČEZu i legislativy nepotřebujete druhý elektroměr jen proto, že nabíjíte elektromobil nebo ukládáte energii do baterie. Vše zastane jediný dvousměrný 4Q elektroměr.
@@ -145,6 +144,40 @@ K získání sazby **D27d** (nebo potvrzení D57d) vám **stačí doložit vlast
 * Výměnu nebo přenastavení stávajícího elektroměru na dvoutarifní režim provede ČEZ Distribuce zdarma na základě schválené žádosti.
 
 # Dotaz:
+
+Mohl bys prosím porovnat náklady na využití EV s náklady na využití běžného vozu se spalovacím motorem? Jako srovnávací vozidlo použij vůz škoda octavia s púrůměrnou spotřebou 6,5 litru na 100 km a cenu paliva 42 kč za 1 litr. děkuji. pro nabíjení EV použij nízký tarif (viz výše). ostatní podmínky jsou stejné.
+
+# Odpovědi:
+
+Zde je přehledné finanční srovnání nákladů na provoz elektromobilu (**Škoda Enyaq 85**) oproti běžnému benzinovému/naftovému vozu (**Škoda Octavia**) při vašem ročním nájezdu **9 700 km** (15 km denně do práce + víkendy).
+
+### 1. Vstupní parametry pro srovnání
+
+* **Roční nájezd:** 9 700 km / rok (30 km denně v pracovní dny + rezerva)
+* **Škoda Octavia (Spalovací motor):**
+* Spotřeba: **6,5 l / 100 km**
+* Cena paliva: **42,00 Kč / l**
+* Náklady na 100 km: $6,5 \times 42 = \mathbf{273,00\text{ Kč}}$
+
+
+* **Škoda Enyaq 85 (Elektromobil):**
+* Spotřeba s započtením ztrát nabíjení (~90 % účinnost): **19,4 kWh / 100 km** (reálná spotřeba vozu 17,5 kWh/100 km)
+* Cena elektřiny (Nízký tarif D57d): **4,00 Kč / kWh**
+* Náklady na 100 km: $19,4 \times 4 = \mathbf{77,60\text{ Kč}}$
+
+### 2. Přímé finanční srovnání (Palivo / Elektřina)
+
+| Parametr / Vozidlo | Škoda Octavia (Spalovací) | Škoda Enyaq 85 (EV v NT) | Rozdíl (Úspora pro EV) |
+| --- | --- | --- | --- |
+| **Cena za 100 km** | 273,00 Kč | 77,60 Kč | **- 195,40 Kč / 100 km** |
+| **Měsíční náklady na palivo/nabíjení** | cca 2 206 Kč | cca 627 Kč | **- 1 579 Kč / měsíc** |
+| **Roční náklady (9 700 km)** | **26 481 Kč** | **7 527 Kč** | **- 18 954 Kč / rok** |
+
+> **Výsledek:** Pouze na provozní energii (palivo vs. elektřina v nízkém tarifu) vám elektromobil při tomto nájezdu ušetří téměř 19 000 Kč ročně (cca 71 % nákladů na palivo). Výše uvedená úspora počítá s tím, že veškerou elektřinu pro EV kupujete ze sítě. Jelikož budete mít na střeše domu fotovoltaiku, reálné náklady budou ještě nižší. V období duben–září (jaro–podzim): Příjezd z práce odpoledne vám umožní nabíjet auto přímo z přebytků FVE. Pokud pokryjete například 50 % ročního nájezdu ze solární energie (vlastní vyrobená elektřina), klesnou vaše roční náklady na nabíjení EV ze 7 527 Kč na **cca 3 760 Kč ročně.
+V takovém případě roční úspora na palivu dosáhne téměř 22 700 Kč ročně.
+
+
+# Dotaz:
 Vedle domu bude stát dílna vybavená stroji pro výrobu dřevěného nábytku. Do dílny bude zaveden elektrický proud ze stejného rozvaděče a elektroměru. Znamená to, že i dílna bude moci využívat výhody nízkého tarifu? Nebude to proti předpisům?
 
 # Odpovědi:
@@ -189,38 +222,4 @@ Při plánování napojení dílny z domovního rozvaděče zvažte tyto technic
 1. **Jističe a rozběhové proudy strojů:** Dřevoobráběcí stroje (formátovací pila, tloušťkovací frézka/protahovačka, odsávání) mají při startu vysoké proudové špičky. Je nutné správně dimenzovat hlavní jistič před elektroměrem (např. 3×25A nebo 3×32A s char. B) a okruhové jističe pro stroje v dílně (často s pomalejší charakteristikou **C**, např. C16/3 pro třífázové zásuvky).
 2. **Kapacita FVE:** Pokud budou stroje v dílně běžet přes den, může vám vznikající přebytek z fotovoltaiky pokrýt značnou část jejich spotřeby přímo ze střechy (zdarma).
 3. **Podružné měření (volitelné):** Pokud byste chtěl mít přehled o tom, kolik elektřiny spotřebuje samotná dílna (např. pro vlastní statistiku), můžete si do podružného rozvaděče v dílně nechat nainstalovat **vlastní podružný elektroměr na DIN lištu**. Ten nemá nic společného s ČEZem a slouží jen pro vaši osobní kontrolu.
-
-# Dotaz:
-
-Mohl bys prosím porovnat náklady na využití EV s náklady na využití běžného vozu se spalovacím motorem? Jako srovnávací vozidlo použij vůz škoda octavia s púrůměrnou spotřebou 6,5 litru na 100 km a cenu paliva 42 kč za 1 litr. děkuji. pro nabíjení EV použij nízký tarif (viz výše). ostatní podmínky jsou stejné.
-
-# Odpovědi:
-
-Zde je přehledné finanční srovnání nákladů na provoz elektromobilu (**Škoda Enyaq 85**) oproti běžnému benzinovému/naftovému vozu (**Škoda Octavia**) při vašem ročním nájezdu **9 700 km** (15 km denně do práce + víkendy).
-
-### 1. Vstupní parametry pro srovnání
-
-* **Roční nájezd:** 9 700 km / rok (30 km denně v pracovní dny + rezerva)
-* **Škoda Octavia (Spalovací motor):**
-* Spotřeba: **6,5 l / 100 km**
-* Cena paliva: **42,00 Kč / l**
-* Náklady na 100 km: $6,5 \times 42 = \mathbf{273,00\text{ Kč}}$
-
-
-* **Škoda Enyaq 85 (Elektromobil):**
-* Spotřeba s započtením ztrát nabíjení (~90 % účinnost): **19,4 kWh / 100 km** (reálná spotřeba vozu 17,5 kWh/100 km)
-* Cena elektřiny (Nízký tarif D57d): **4,00 Kč / kWh**
-* Náklady na 100 km: $19,4 \times 4 = \mathbf{77,60\text{ Kč}}$
-
-### 2. Přímé finanční srovnání (Palivo / Elektřina)
-
-| Parametr / Vozidlo | Škoda Octavia (Spalovací) | Škoda Enyaq 85 (EV v NT) | Rozdíl (Úspora pro EV) |
-| --- | --- | --- | --- |
-| **Cena za 100 km** | 273,00 Kč | 77,60 Kč | **- 195,40 Kč / 100 km** |
-| **Měsíční náklady na palivo/nabíjení** | cca 2 206 Kč | cca 627 Kč | **- 1 579 Kč / měsíc** |
-| **Roční náklady (9 700 km)** | **26 481 Kč** | **7 527 Kč** | **- 18 954 Kč / rok** |
-
-> **Výsledek:** Pouze na provozní energii (palivo vs. elektřina v nízkém tarifu) vám elektromobil při tomto nájezdu ušetří téměř 19 000 Kč ročně (cca 71 % nákladů na palivo). Výše uvedená úspora počítá s tím, že veškerou elektřinu pro EV kupujete ze sítě. Jelikož budete mít na střeše domu fotovoltaiku, reálné náklady budou ještě nižší. V období duben–září (jaro–podzim): Příjezd z práce odpoledne vám umožní nabíjet auto přímo z přebytků FVE. Pokud pokryjete například 50 % ročního nájezdu ze solární energie (vlastní vyrobená elektřina), klesnou vaše roční náklady na nabíjení EV ze 7 527 Kč na **cca 3 760 Kč ročně.
-V takovém případě roční úspora na palivu dosáhne téměř 22 700 Kč ročně.
-
 

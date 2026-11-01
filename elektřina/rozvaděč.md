@@ -23,11 +23,9 @@ b) jaké jsou výhody a dodatečné možnosti modelu 2 oproti modelu 1?
 
 Pro vámi popsané zapojení vám **ve velké většině případů bude stačit Model 1 (pro jeden elektroměr)**. Nicméně volba Modelu 2 přináší určité výhody a flexibilitu do budoucna. Níže uvádím podrobné odpovědi na vaše dotazy:
 
----
+a) Bude mi stačit Model 1, nebo potřebuji Model 2?
 
-## a) Bude mi stačit Model 1, nebo potřebuji Model 2?
-
-### **Pro drtivou většinu běžných instalací plně postačí Model 1 (pro 1 elektroměr).**
+**Pro drtivou většinu běžných instalací plně postačí Model 1 (pro 1 elektroměr).**
 
 Dnešní standardní instalace fotovoltaiky (FVE) pro rodinné domy funguje na principu tzv. **čtyřkvadrantního 4Q elektroměru** (který zdarma dodá distributor – ČEZ Distribuce):
 

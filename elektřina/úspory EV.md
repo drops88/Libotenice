@@ -49,14 +49,14 @@ Model 2 (příprava pro 2 elektroměry) se instaluje v případech, kdy plánuje
 * Výměnek / část domu určená k pronájmu (nájemník má svůj elektroměr).
 * Dům spojený s podnikáním / provozovnou (podnikatelský odběr oddělený od osobního).
 
-
 ## Doporučení na závěr
 
 1. **Standardní volba (Model 1):** Pokud stavíte klasický rodinný dům pro jednu rodinu a elektromobil budete nabíjet z domova v rámci jedné společné faktury za elektřinu, **kupte Model 1**. Ušetříte za rozvaděč i za prostor na hranici pozemku.
 2. **Kdy zvolit Model 2:** Pokud plánujete v domu samostatnou bytovou jednotku/dvojdomek, chcete účtovat nabíjení firemního elektromobilu na samostatné odběrné místo (EAN), nebo chcete mít maximální rezervu pro budoucí stavební/energetické úpravy.
 
+---
 
-## Dotaz:
+# Dotaz:
 
 Existuje u distributora čez nějaký specifický tarif pro nabíjení EV? Který model rozvaděče potřebuji?
 
@@ -64,7 +64,7 @@ Existuje u distributora čez nějaký specifický tarif pro nabíjení EV? Kter�
 
 * 2. Elektroměrový rozvaděč pro fotovoltaiku pro dva dvoutarifní třífázové elektroměry pro měření
 
-## Odpovědi:
+# Odpovědi:
 
 Ano, u distributora (i dodavatele) existuje specifická distribuční sazba určená pro majitele elektromobilů, která se označuje kódovým označením D27d. Změnou sazby celého vašeho stávajícího odběrného místa z běžné sazby (např. D02d) na D27d získáte výhodnější cenu elektřiny na 8 hodin denně v nízkém tarifu (NT). Pokud navíc váš dům disponuje tepelným čerpadlem nebo elektrickým vytápěním, získáte rovnou dvoutarifní sazbu D57d, kde výhodnější nízký tarif platí 20 hodin denně.
 
@@ -107,7 +107,6 @@ Jakou finanční úsporu může přinést využití nízkého tarifu namísto je
 
 # Odpovědi:
 
-
 ## 1. Způsob výpočtu roční úspory
 
 * **Vozidlo:** Škoda Enyaq 85 (reálná spotřeba cca 17,5 kWh / 100 km).
@@ -135,16 +134,12 @@ Finanční přínos výhodnějšího tarifu (NT) bude činit **cca 4 710 Kč ro�
 
 Získáním dvoutarifní sazby neusetříte pouze na nabíjení auta. **Všechny ostatní spotřebiče v domě** (pračka, sušička, myčka, běh FVE střídače), které poběží během 8 (resp. 20) hodin nízkého tarifu, odeberou elektřinu rovněž za sníženou cenu NT. Reálná roční úspora celé domácnosti tak běžně dosahuje **7 000 – 9 000 Kč**.
 
----
-
 ### Jak do výpočtu vstupuje vaše Fotovoltaika (FVE)?
 
 Vzhledem k tomu, že stavíte dům s FVE, bude úspora strukturována sezónně:
 
 1. **Jaro až podzim (duben–září):** Při denním nájezdu 40 km spotřebuje Enyaq cca 7–8 kWh denně. Tento objem v pohodě **pokryje vaše FVE z přebytků zdarma**, pokud auto přes den nebo po návratu z práce odpoledne zapojíte. V tomto období je vliv tarifu sítě minimální.
 2. **Zima (listopad–únor):** Výroba FVE výrazně klesne a pokryje sotva běžnou režii domu. **Elektromobil budete nabíjet primárně ze sítě**. Právě v tomto období oceníte sazbu D27d/D57d, kdy auto nastavíte na automatické noční nabíjení (např. mezi 0:00 a 6:00).
-
----
 
 ### Podmínky pro získání sazby pro EV u ČEZu
 

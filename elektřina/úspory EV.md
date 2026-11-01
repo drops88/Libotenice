@@ -54,8 +54,6 @@ Model 2 (příprava pro 2 elektroměry) se instaluje v případech, kdy plánuje
 1. **Standardní volba (Model 1):** Pokud stavíte klasický rodinný dům pro jednu rodinu a elektromobil budete nabíjet z domova v rámci jedné společné faktury za elektřinu, **kupte Model 1**. Ušetříte za rozvaděč i za prostor na hranici pozemku.
 2. **Kdy zvolit Model 2:** Pokud plánujete v domu samostatnou bytovou jednotku/dvojdomek, chcete účtovat nabíjení firemního elektromobilu na samostatné odběrné místo (EAN), nebo chcete mít maximální rezervu pro budoucí stavební/energetické úpravy.
 
----
-
 # Dotaz:
 
 Existuje u distributora čez nějaký specifický tarif pro nabíjení EV? Který model rozvaděče potřebuji?
@@ -98,8 +96,6 @@ Signalizaci a přepínání tarifů mezi VT a NT (pomocí kódu HDO nebo přijí
 * **Odpověď:** Pro vaše potřeby **stačí Model 1**.
 * Na jedno odběrné místo a jeden fakturační elektroměr získáte výhodný tarif pro tepelné čerpadlo i pro večerní a noční nabíjení elektromobilu.
 * **Model 2** by měl smysl pouze v případě, že byste chtěl elektromobil napájet z úplně jiného odběrného místa s vlastní samostatnou smlouvou a fakturou (např. pro oddělené účtování služebního auta vůči zaměstnavateli).
-
----
 
 # Dotaz:
 

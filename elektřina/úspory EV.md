@@ -144,6 +144,83 @@ K získání sazby **D27d** (nebo potvrzení D57d) vám **stačí doložit vlast
 * Nemusíte instalovat druhý fakturační elektroměr.
 * Výměnu nebo přenastavení stávajícího elektroměru na dvoutarifní režim provede ČEZ Distribuce zdarma na základě schválené žádosti.
 
-/////////
+# Dotaz:
+Vedle domu bude stát dílna vybavená stroji pro výrobu dřevěného nábytku. Do dílny bude zaveden elektrický proud ze stejného rozvaděče a elektroměru. Znamená to, že i dílna bude moci využívat výhody nízkého tarifu? Nebude to proti předpisům?
+
+# Odpovědi:
+
+Ano, **dílna bude moci plně využívat výhody nízkého tarifu (NT)** a **je to zcela v souladu s předpisy**.
+
+Níže jsou podrobnosti, jak to funguje z pohledu předpisů i technické realizace:
+
+---
+
+### 1. Proč je to v souladu s předpisy?
+
+Vše se odvíjí od toho, jak je definováno **odběrné místo**:
+
+* **Jedno odběrné místo = jedna smlouva a jeden elektroměr:** Hlavní fakturační elektroměr měří veškerou elektřinu, která protéká z distribuční sítě na váš pozemek (do rodinného domu i přilehlých staveb, jako je garáž, stodola nebo truhlářská dílna).
+* **Stejná sazba pro celé odběrné místo:** Jakmile je na daném odběrném místě přiznána distribuční sazba **D57d** (díky tepelnému čerpadlu pro vytápění domu), platí příslušný tarif (VT nebo NT) **pro celou spotřebu za tímto elektroměrem bez ohledu na to, v jaké místnosti nebo budově spotřebič běží**.
+* Distributor nepřezkoumává ani neomezuje, zda v dílně zapnete hoblovku, pilu nebo odsávání. Z hlediska distribuce jde stále o spotřebu jedné domácnosti / odběrného místa.
+
+---
+
+### 2. Podmínka: Osobní / nepodnikatelské využití vs. Podnikání
+
+Jediný právní a tarifní rozdíl nastává podle toho, **k čemu dílna slouží**:
+
+### A) Kutilská dílna / Výroba nábytku pro vlastní potřebu (Domácí odběr)
+
+* Pokud v dílně vyrábíte nábytek pro sebe, rodinu nebo jako koníček (nepodnikáte na IČO v tomto objektu s firemním odběrem), jedná se o standardní spotřebu domácnosti v sazbě **D57d**. Vše je 100% v pořádku.
+
+### B) Oficiální podnikání (Truhlářství na IČO)
+
+* Pokud byste v dílně provozoval oficiální truhlářskou živnost a nábytek prodával, legislativně platí, že pro podnikatelskou činnost je určena **podnikatelská distribuční sazba (řada C)**.
+* V praxi u drobných živností v areálu rodinného domu ČEZ ani jiný distributor běžně neřeší, pokud truhlárna funguje v rámci domácího odběru. Pokud byste si však chtěl dávat náklady na elektřinu v dílně plně do účetnictví firmy, musel byste buď:
+* Instalovat podružný elektroměr a náklad poměrně rozpočítat (případně po konzultaci s daňovým poradcem).
+* Nebo zřídit pro dílnu samostatné podnikatelské odběrné místo (pak by se teprve hodil zmiňovaný *Model 2* rozvaděče).
+
+> **Shrnutí:** Pokud jde o dílnu pro vlastní potřebu či běžný kutilský provoz, využití 20 hodin nízkého tarifu denně pro chod strojů **je plně legální a předpisům to nijak neodporuje**.
+
+### 3. Na co si dát pozor při návrhu elektroinstalace dílny?
+
+Při plánování napojení dílny z domovního rozvaděče zvažte tyto technické aspekty:
+
+1. **Jističe a rozběhové proudy strojů:** Dřevoobráběcí stroje (formátovací pila, tloušťkovací frézka/protahovačka, odsávání) mají při startu vysoké proudové špičky. Je nutné správně dimenzovat hlavní jistič před elektroměrem (např. 3×25A nebo 3×32A s char. B) a okruhové jističe pro stroje v dílně (často s pomalejší charakteristikou **C**, např. C16/3 pro třífázové zásuvky).
+2. **Kapacita FVE:** Pokud budou stroje v dílně běžet přes den, může vám vznikající přebytek z fotovoltaiky pokrýt značnou část jejich spotřeby přímo ze střechy (zdarma).
+3. **Podružné měření (volitelné):** Pokud byste chtěl mít přehled o tom, kolik elektřiny spotřebuje samotná dílna (např. pro vlastní statistiku), můžete si do podružného rozvaděče v dílně nechat nainstalovat **vlastní podružný elektroměr na DIN lištu**. Ten nemá nic společného s ČEZem a slouží jen pro vaši osobní kontrolu.
+
+# Dotaz:
+
+Mohl bys prosím porovnat náklady na využití EV s náklady na využití běžného vozu se spalovacím motorem? Jako srovnávací vozidlo použij vůz škoda octavia s púrůměrnou spotřebou 6,5 litru na 100 km a cenu paliva 42 kč za 1 litr. děkuji. pro nabíjení EV použij nízký tarif (viz výše). ostatní podmínky jsou stejné.
+
+# Odpovědi:
+
+Zde je přehledné finanční srovnání nákladů na provoz elektromobilu (**Škoda Enyaq 85**) oproti běžnému benzinovému/naftovému vozu (**Škoda Octavia**) při vašem ročním nájezdu **9 700 km** (15 km denně do práce + víkendy).
+
+### 1. Vstupní parametry pro srovnání
+
+* **Roční nájezd:** 9 700 km / rok (30 km denně v pracovní dny + rezerva)
+* **Škoda Octavia (Spalovací motor):**
+* Spotřeba: **6,5 l / 100 km**
+* Cena paliva: **42,00 Kč / l**
+* Náklady na 100 km: $6,5 \times 42 = \mathbf{273,00\text{ Kč}}$
+
+
+* **Škoda Enyaq 85 (Elektromobil):**
+* Spotřeba s započtením ztrát nabíjení (~90 % účinnost): **19,4 kWh / 100 km** (reálná spotřeba vozu 17,5 kWh/100 km)
+* Cena elektřiny (Nízký tarif D57d): **4,00 Kč / kWh**
+* Náklady na 100 km: $19,4 \times 4 = \mathbf{77,60\text{ Kč}}$
+
+### 2. Přímé finanční srovnání (Palivo / Elektřina)
+
+| Parametr / Vozidlo | Škoda Octavia (Spalovací) | Škoda Enyaq 85 (EV v NT) | Rozdíl (Úspora pro EV) |
+| --- | --- | --- | --- |
+| **Cena za 100 km** | 273,00 Kč | 77,60 Kč | **- 195,40 Kč / 100 km** |
+| **Měsíční náklady na palivo/nabíjení** | cca 2 206 Kč | cca 627 Kč | **- 1 579 Kč / měsíc** |
+| **Roční náklady (9 700 km)** | **26 481 Kč** | **7 527 Kč** | **- 18 954 Kč / rok** |
+
+> **Výsledek:** Pouze na provozní energii (palivo vs. elektřina v nízkém tarifu) vám elektromobil při tomto nájezdu ušetří téměř 19 000 Kč ročně (cca 71 % nákladů na palivo). Výše uvedená úspora počítá s tím, že veškerou elektřinu pro EV kupujete ze sítě. Jelikož budete mít na střeše domu fotovoltaiku, reálné náklady budou ještě nižší. V období duben–září (jaro–podzim): Příjezd z práce odpoledne vám umožní nabíjet auto přímo z přebytků FVE. Pokud pokryjete například 50 % ročního nájezdu ze solární energie (vlastní vyrobená elektřina), klesnou vaše roční náklady na nabíjení EV ze 7 527 Kč na **cca 3 760 Kč ročně.
+V takovém případě roční úspora na palivu dosáhne téměř 22 700 Kč ročně.
 
 

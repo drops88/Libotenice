@@ -183,11 +183,7 @@ Vedle domu bude stát dílna vybavená stroji pro výrobu dřevěného nábytku.
 
 # Odpovědi:
 
-Ano, **dílna bude moci plně využívat výhody nízkého tarifu (NT)** a **je to zcela v souladu s předpisy**.
-
-Níže jsou podrobnosti, jak to funguje z pohledu předpisů i technické realizace:
-
----
+Ano, dílna bude moci plně využívat výhody nízkého tarifu (NT) a je to zcela v souladu s předpisy. Níže jsou podrobnosti, jak to funguje z pohledu předpisů i technické realizace:
 
 ### 1. Proč je to v souladu s předpisy?
 
@@ -196,8 +192,6 @@ Vše se odvíjí od toho, jak je definováno **odběrné místo**:
 * **Jedno odběrné místo = jedna smlouva a jeden elektroměr:** Hlavní fakturační elektroměr měří veškerou elektřinu, která protéká z distribuční sítě na váš pozemek (do rodinného domu i přilehlých staveb, jako je garáž, stodola nebo truhlářská dílna).
 * **Stejná sazba pro celé odběrné místo:** Jakmile je na daném odběrném místě přiznána distribuční sazba **D57d** (díky tepelnému čerpadlu pro vytápění domu), platí příslušný tarif (VT nebo NT) **pro celou spotřebu za tímto elektroměrem bez ohledu na to, v jaké místnosti nebo budově spotřebič běží**.
 * Distributor nepřezkoumává ani neomezuje, zda v dílně zapnete hoblovku, pilu nebo odsávání. Z hlediska distribuce jde stále o spotřebu jedné domácnosti / odběrného místa.
-
----
 
 ### 2. Podmínka: Osobní / nepodnikatelské využití vs. Podnikání
 

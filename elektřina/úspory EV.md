@@ -153,8 +153,9 @@ Zde je přehledné finanční srovnání nákladů na provoz elektromobilu (**Š
 
 ### 1. Vstupní parametry pro srovnání
 
-* **Roční nájezd:** 9 700 km / rok (30 km denně v pracovní dny + rezerva)
-* **Škoda Octavia (Spalovací motor):**
+* Roční nájezd:** 9 700 km / rok (30 km denně v pracovní dny + rezerva)
+
+> **Škoda Octavia (Spalovací motor):**
 * Spotřeba: **6,5 l / 100 km**
 * Cena paliva: **42,00 Kč / l**
 * Náklady na 100 km: $6,5 \times 42 = \mathbf{273,00\text{ Kč}}$

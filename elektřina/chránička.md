@@ -1,6 +1,6 @@
 Jaký průměr chráničky bych měl použít pro kabel CYKY-J 4x16? 
 
-Pro spolehlivé a bezproblémové zatažení silového kabelu **CYKY-J 4x16** (případně CYKY-O / CYKY-J 4x16 mm²) do chráničky v zemi se standardně používá korugovaná dvouplášťová chránička (např. typu **KOPODUR** nebo **KOPOFLEX**) o **vnějším průměru 50 mm** (rozměr **DN 50**).
+Pro spolehlivé a bezproblémové zatažení silového kabelu **CYKY-J 4x16** do chráničky v zemi se standardně používá korugovaná dvouplášťová chránička (např. typu **KOPODUR** nebo **KOPOFLEX**) o **vnějším průměru 50 mm** (rozměr **DN 50**).
 
 ---
 
